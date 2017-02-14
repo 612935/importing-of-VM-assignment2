@@ -1,0 +1,10 @@
+how to import acadgild in oracle vm box:
+
+ 	  1. First open the oracle virtual box. 
+ 	  2. click FILE in the left top corner. 
+ 	  3. Now we see the IMPORT APPLICATION  in FILE column click it.
+ 	  4. We are directed to the browse pop up tab, Browse where the acadgild file is and import the file.
+ 	  5. Click next and then remove the tick in usb controller and insert click the tick mark in reinitialize the mac address.
+ 	  6. It will take few minutes to import.
+ 	  7. And then click start to start the acadgild and type user name, password to login to linux.
+ 	  8. Finally Works in the oracle vm box.
